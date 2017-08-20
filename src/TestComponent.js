@@ -13,6 +13,7 @@ function TestComponent(props) {
     return(
         <div>
             La vai o {props.animal}
+            <p> oi edna</p>
         </div>
     )
 }
